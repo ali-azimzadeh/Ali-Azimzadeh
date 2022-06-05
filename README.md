@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Custom badge](https://img.shields.io/badge/Job%20Title-C%23%20Developer%20--%20Desktop%20--%20Web%20Developer%20--%20IOT%20Solutions-red)
+![Custom badge](https://img.shields.io/badge/Job%20Title-C%23%20Developer%20--%20Desktop%20--%20Web%20Developer%20--%20IOT%20Solutions--%20RFID%20Solutions-red)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-azimzadeh)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-azimzadeh)](https://github.com/anuraghazra/github-readme-stats)
 
