@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_TOAST-CSHARP)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_TYPED_DATASET)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_ENCRYPT_CONNECTION_STRING)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/badge/Job%20Title-C%23%20Developer%20--%20Desktop%20--%20Web%20Developer%20--%20IOT%20Solutions-red
