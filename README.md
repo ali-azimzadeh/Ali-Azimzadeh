@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-azimzadeh)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_TOAST-CSHARP)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_TYPED_DATASET)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali-azimzadeh&repo=LEARNING_ENCRYPT_CONNECTION_STRING)](https://github.com/anuraghazra/github-readme-stats)
